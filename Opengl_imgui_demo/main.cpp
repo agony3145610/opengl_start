@@ -47,6 +47,7 @@ void CreateAndTranc()
 
 int main()
 {
+
     // 实例化GLFW窗口
     glfwInit();
     // 指定OPENGL版本号
